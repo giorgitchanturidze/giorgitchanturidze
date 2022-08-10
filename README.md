@@ -1,7 +1,7 @@
-<h3>Hello, I'm Giorgi Tchanturidze and currently I'm focusing on 👇</h3>
+<h3>Hello, I'm Giorgi and currently I'm focusing on 👇</h3>
 
 [![Linkedin: RafaelVilches](https://img.shields.io/badge/-Giorgi_Tchanturidze-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giorgi-tchanturidze/)](https://www.linkedin.com/in/giorgi-tchanturidze/)
-<br>
+
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic-square&logo=css3&logoColor=white)
@@ -22,6 +22,8 @@
 ![Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic-square&logo=visual%20studio%20code&logoColor=white)
 ![PHP Storm](https://img.shields.io/badge/PhpStorm-F3359D?style=plastic-square&logo=PhpStorm&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic-square&logo=linux&logoColor=black)
+
+
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic-square&logo=windows&logoColor=white)
 ![Adobe-Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FE9B01.svg?&style=plastic-square&logo=Adobe-Illustrator&logoColor=310100)
 ![Adobe-Photoshop](https://img.shields.io/badge/Adobe_Photoshop-2F9FF2.svg?&style=plastic-square&logo=Adobe-Photoshop&logoColor=001C33)
