@@ -6,3 +6,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=plastic-square&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-474A8A?style=plastic-square&logo=PHP&logoColor=white)
 ![Drupal](https://img.shields.io/badge/Drupal-316192?style=plastic-square&logo=drupal&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-gray.svg?&style=plastic-square&logo=Docker&logoColor=blue)
+![Composer](https://img.shields.io/badge/Composer-white.svg?&style=plastic-square&logo=Composer&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=plastic-square&logo=mysql&logoColor=orange)
