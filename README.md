@@ -1,4 +1,6 @@
-# Giorgi Tchanturidze
+<h3>Hello, I'm Giorgi Tchanturidze and currently I'm focusing on 👇</h3> 
+<br>
+
 [![Linkedin: RafaelVilches](https://img.shields.io/badge/-Giorgi_Tchanturidze-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giorgi-tchanturidze/)](https://www.linkedin.com/in/giorgi-tchanturidze/)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic-square&logo=css3&logoColor=white)
