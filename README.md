@@ -1,4 +1,6 @@
-<h3>Hello, I'm Giorgi and currently I'm focusing on 👇</h3>
+<div align="center"> 
+  Hello, I'm Giorgi and currently I'm focusing on
+</div>
 
 [![Linkedin: RafaelVilches](https://img.shields.io/badge/-Giorgi_Tchanturidze-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giorgi-tchanturidze/)](https://www.linkedin.com/in/giorgi-tchanturidze/)
 
@@ -23,6 +25,10 @@
 ![PHP Storm](https://img.shields.io/badge/PhpStorm-F3359D?style=plastic-square&logo=PhpStorm&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic-square&logo=linux&logoColor=black)
 
+<div align="center"> 
+In Addition
+  </div>
+<br>
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic-square&logo=windows&logoColor=white)
 ![Adobe-Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FE9B01.svg?&style=plastic-square&logo=Adobe-Illustrator&logoColor=310100)
@@ -31,6 +37,11 @@
 ![Figma](https://img.shields.io/badge/Figma-007ACC.svg?&style=plastic-square&logo=figma&logoColor=black)
 ![Discord](https://img.shields.io/badge/Discord-6264A7?&style=plastic-square&logo=Discord&logoColor=white)
 ![SCRUM](https://img.shields.io/badge/-SCRUM-blue?style=plastic-square&logo=scrumalliance&logoColor=white)
+
+<div align="center"> 
+GitHub Stats
+  </div>
+<br>
 
 <div align="center"> 
 <img height=180 src="https://github-readme-stats.vercel.app/api?username=giorgitchanturidze&hide=prs,issues,contribs&show_icons=true&theme=radical" alt="Top langs" />
