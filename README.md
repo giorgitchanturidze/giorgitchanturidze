@@ -3,9 +3,7 @@
  [![Linkedin: RafaelVilches](https://img.shields.io/badge/-Giorgi_Tchanturidze-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giorgi-tchanturidze/)](https://www.linkedin.com/in/giorgi-tchanturidze/)
 
    Hello, I'm Giorgi and currently I'm focusing on
-</div>
-<br>
-
+  
 ![Drupal](https://img.shields.io/badge/Drupal-316192?style=plastic-square&logo=drupal&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic-square&logo=css3&logoColor=white)
@@ -26,11 +24,12 @@
 ![PHP Storm](https://img.shields.io/badge/PhpStorm-F3359D?style=plastic-square&logo=PhpStorm&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic-square&logo=linux&logoColor=black)
 
+ </div>
+  
 <div align="center"> 
+  
 In Addition
-  </div>
-<br>
-
+  
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic-square&logo=windows&logoColor=white)
 ![Adobe-Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FE9B01.svg?&style=plastic-square&logo=Adobe-Illustrator&logoColor=310100)
 ![Adobe-Photoshop](https://img.shields.io/badge/Adobe_Photoshop-2F9FF2.svg?&style=plastic-square&logo=Adobe-Photoshop&logoColor=001C33)
@@ -38,6 +37,8 @@ In Addition
 ![Figma](https://img.shields.io/badge/Figma-007ACC.svg?&style=plastic-square&logo=figma&logoColor=black)
 ![Discord](https://img.shields.io/badge/Discord-6264A7?&style=plastic-square&logo=Discord&logoColor=white)
 ![SCRUM](https://img.shields.io/badge/-SCRUM-blue?style=plastic-square&logo=scrumalliance&logoColor=white)
+  
+</div>
 
 <div align="center"> 
 GitHub Stats
