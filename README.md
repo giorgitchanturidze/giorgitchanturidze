@@ -27,7 +27,7 @@
 ![Discord](https://img.shields.io/badge/Discord-6264A7?&style=plastic-square&logo=Discord&logoColor=white)
 ![SCRUM](https://img.shields.io/badge/-SCRUM-blue?style=plastic-square&logo=scrumalliance&logoColor=white)
 
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giorgitchanturidze&show_icons=true&theme=radical)
-  <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgitchanturidze&show_icons=true&theme=radical&layout=compact)](https://github.com/giorgitchanturidze/github-readme-stats)
+<div align="center"> 
+<img height=180 src="https://github-readme-stats.vercel.app/api?username=giorgitchanturidze&show_icons=true&theme=radical" alt="Top langs" />
+<img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=giorgitchanturidze&show_icons=true&theme=radical&layout=compact" alt="Stats" />
+</div>
