@@ -40,13 +40,3 @@ In Addition:
 ![SCRUM](https://img.shields.io/badge/-SCRUM-blue?style=plastic-square&logo=scrumalliance&logoColor=white)
   
 </div>
-
-<div align="center"> 
-GitHub Stats
-  </div>
-<br>
-
-<div align="center"> 
-<img height=150  src="https://github-readme-stats.vercel.app/api?username=giorgitchanturidze&hide=prs,issues,contribs&show_icons=true&theme=radical" alt="Top langs" />
-<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=giorgitchanturidze&show_icons=true&theme=radical&layout=compact" alt="Stats" />
-</div>
