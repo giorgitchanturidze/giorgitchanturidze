@@ -23,7 +23,6 @@
 ![Github](https://img.shields.io/badge/GitHub-100000?style=plastic-square&logo=github&logoColor=white)
 ![Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic-square&logo=visual%20studio%20code&logoColor=white)
 ![PHP Storm](https://img.shields.io/badge/PhpStorm-F3359D?style=plastic-square&logo=PhpStorm&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic-square&logo=linux&logoColor=black)
 
  </div>
   
@@ -31,7 +30,6 @@
   
 In Addition:
   
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic-square&logo=windows&logoColor=white)
 ![Adobe-Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FE9B01.svg?&style=plastic-square&logo=Adobe-Illustrator&logoColor=310100)
 ![Adobe-Photoshop](https://img.shields.io/badge/Adobe_Photoshop-2F9FF2.svg?&style=plastic-square&logo=Adobe-Photoshop&logoColor=001C33)
 ![Adobe-Premiere-pro](https://img.shields.io/badge/Adobe_Premiere_pro-9090F2.svg?&style=plastic-square&logo=Adobe-Premiere-pro&logoColor=000157)
