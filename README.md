@@ -35,6 +35,6 @@ In Addition:
 ![Adobe-Premiere-pro](https://img.shields.io/badge/Adobe_Premiere_pro-9090F2.svg?&style=plastic-square&logo=Adobe-Premiere-pro&logoColor=000157)
 ![Figma](https://img.shields.io/badge/Figma-007ACC.svg?&style=plastic-square&logo=figma&logoColor=black)
 ![Discord](https://img.shields.io/badge/Discord-6264A7?&style=plastic-square&logo=Discord&logoColor=white)
-![SCRUM](https://img.shields.io/badge/-SCRUM-blue?style=plastic-square&logo=scrumalliance&logoColor=white)
+![Agile](https://img.shields.io/badge/-SCRUM-blue?style=plastic-square&logo=scrumalliance&logoColor=white)
   
 </div>
