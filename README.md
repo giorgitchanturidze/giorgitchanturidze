@@ -28,7 +28,7 @@
   
 <div align="center"> 
   
-In Addition
+In Addition:
   
 ![Adobe-Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FE9B01.svg?&style=plastic-square&logo=Adobe-Illustrator&logoColor=310100)
 ![Adobe-Photoshop](https://img.shields.io/badge/Adobe_Photoshop-2F9FF2.svg?&style=plastic-square&logo=Adobe-Photoshop&logoColor=001C33)
