@@ -3,7 +3,7 @@
    
  [![Linkedin: RafaelVilches](https://img.shields.io/badge/-Giorgi_Tchanturidze-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giorgi-tchanturidze/)](https://www.linkedin.com/in/giorgi-tchanturidze/)
    
-  Currently I'm focusing on
+  Currently, I'm focusing on
   
 ![Drupal](https://img.shields.io/badge/Drupal-316192?style=plastic-square&logo=drupal&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic-square&logo=html5&logoColor=white)
@@ -37,4 +37,12 @@ In Addition:
 ![Discord](https://img.shields.io/badge/Discord-6264A7?&style=plastic-square&logo=Discord&logoColor=white)
 ![Agile](https://img.shields.io/badge/-SCRUM-blue?style=plastic-square&logo=scrumalliance&logoColor=white)
   
+</div>
+
+<div align="center"> 
+
+<a href="https://ge.linkedin.com/in/giorgi-tchanturidze" >
+<img src="https://github.com/giorgitchanturidze/giorgitchanturidze/assets/101937929/2ab0711d-0daf-4efa-8f3e-2129598ed6be"/>
+</a>
+
 </div>
