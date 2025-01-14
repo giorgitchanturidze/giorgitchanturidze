@@ -59,20 +59,6 @@ exploreGitHub();
 </p>
 
 ---
-
-### 🌀 **Get Lost in the Matrix**
-
-```css
-/* CSS hacker vibes */
-body {
-  background: #0f0;
-  color: #000;
-  font-family: "Courier New", monospace;
-}
-```
-
----
-
 <div align="center">
   <h3>👾 Explore. Code. Repeat. 👾</h3>
 </div>
