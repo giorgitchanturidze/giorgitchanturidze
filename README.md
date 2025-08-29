@@ -5,7 +5,7 @@
 
   <!-- Typing banner: edit the `lines=` query to change text -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=VT323&pause=600&duration=1700&size=34&color=10B981&center=true&vCenter=true&width=750&lines=Welcome!;I'm%20Giorgi%20Tchanturidze"
+    src="https://readme-typing-svg.demolab.com?font=VT323&pause=10&duration=2700&size=34&color=10B981&center=true&vCenter=true&width=750&lines=Welcome!;I'm%20Giorgi%20Tchanturidze"
     alt="Welcome — I'm Giorgi Tchanturidze"
     loading="lazy"
   />
