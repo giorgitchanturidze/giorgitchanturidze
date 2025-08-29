@@ -5,7 +5,7 @@
 
   <!-- Typing banner: edit the `lines=` query to change text -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=750&lines=Welcome!;I'm%20Giorgi%20Tchanturidze"
+    src="https://readme-typing-svg.demolab.com?font=VT323&pause=600&duration=1700&size=34&color=10B981&center=true&vCenter=true&width=750&lines=Welcome!;I'm%20Giorgi%20Tchanturidze"
     alt="Welcome — I'm Giorgi Tchanturidze"
     loading="lazy"
   />
@@ -32,8 +32,6 @@
 <!-- ========================= -->
 <!--     CONTRIBUTIONS         -->
 <!-- ========================= -->
-<h2 align="center">🐍 Contributions</h2>
-
 <!-- Activity Graph: dynamic contribution graph (no action needed) -->
 <p align="center">
   <!-- Themes: github, github-compact, high-contrast, etc. -->
