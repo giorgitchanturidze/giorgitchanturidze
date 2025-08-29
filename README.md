@@ -1,7 +1,7 @@
 # 🌌 Welcome to My GitHub Universe! 🌌
 
 ```bash
-> Initializing... Welcome to the code side! 🚀
+> Initializing... Welcome! 🚀
 ```
 
 <div align="center">
@@ -11,56 +11,9 @@
 
 ---
 
-### ✨ **Random Dev Insights** ✨
-
-```yaml
-# Fun stuff happens here:
-projects:
-  - Cool web apps
-  - Open-source vibes
-  - Creative experiments
-
-status: 
-  - Currently building neat things 🛠️
-  - Sometimes breaking things too! 😅
-```
-
----
-
-### ⚙️ **Tools in the Arsenal** ⚙️
-```diff
-+ JavaScript
-+ Tailwind power
-+ CMS wizardry
-+ Modern web frameworks
-+ More fun stuff!
-```
-
----
-
-### 🎮 **Console Playground**
-
-```js
-// Check out these epic logs!
-const exploreGitHub = () => {
-  console.log("✨ Magic is happening!");
-};
-
-exploreGitHub();
-```
-
----
-
 ### 📊 **GitHub Stats**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=giorgitchanturidze&show_icons=true&theme=tokyonight" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giorgitchanturidze&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
----
-<div align="center">
-  <h3>👾 Explore. Code. Repeat. 👾</h3>
-</div>
-
----
