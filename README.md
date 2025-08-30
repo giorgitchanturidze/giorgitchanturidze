@@ -19,7 +19,7 @@
 <!-- Replace the src with your own asset. Keep width% for responsiveness. -->
 <p align="center">
   <img
-    src="https://github.com/user-attachments/assets/2f6ab805-9a15-401b-934d-9d0854f01a66"
+    src="https://github.com/user-attachments/assets/b9855657-693e-4f47-bb69-ed81d3c60f67"
     alt="Sci-Fi style profile header"
     style="width: 60%; max-width: 860px; border-radius: 12px;"
     loading="lazy"
