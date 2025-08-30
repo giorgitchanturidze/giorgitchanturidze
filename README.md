@@ -34,7 +34,7 @@
 <p align="center">
   <!-- Themes: github, github-compact, high-contrast, etc. -->
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=giorgitchanturidze&theme=github-compact&radius=8"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=giorgitchanturidze&theme=github-compact&color=08872B&radius=8&font=VT323"
     alt="Contribution activity graph"
     loading="lazy"
   />
